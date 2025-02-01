@@ -1,0 +1,33 @@
+Conte uma história história real de uma pessoa que sofreu Phishing e teve seus dados e valores de sua conta bancária roubada, após o término dê três dicas para o ouvinte se proteger deste tipo de golpe. O texto deve conter até 5.000 caracteres.
+
+História Real: O Dia em que Maria Perdeu R$ 20.000 para um Golpe de Phishing
+
+
+"Olá, ouvintes! Eu sou Joana, e hoje vou contar uma história real que serve de alerta para todos nós. É sobre Maria, uma professora de 45 anos, que caiu em um golpe de phishing e perdeu R$ 20.000 de sua conta bancária. No final, vou dar três dicas essenciais para você se proteger desse tipo de fraude. Vamos lá?"
+
+"Maria estava em casa, aproveitando uma tarde tranquila, quando recebeu um e-mail que parecia ser do seu banco. O assunto era alarmante: 'Sua conta será bloqueada em 24 horas devido a uma atividade suspeita'. O e-mail pedia que ela clicasse em um link para confirmar seus dados e evitar o bloqueio.
+
+Preocupada, Maria clicou no link e foi direcionada a uma página idêntica à do site do seu banco. Ela digitou seu CPF, senha e até o código que recebeu por SMS. Mal sabia ela que aquela página era falsa, criada por criminosos para roubar seus dados.
+
+Minutos depois, Maria recebeu uma notificação do banco: uma transferência de R$ 20.000 havia sido feita para uma conta desconhecida. Ela entrou em pânico e ligou para o banco, mas já era tarde. O dinheiro havia sumido.
+
+Maria descobriu que havia sido vítima de phishing, um golpe onde criminosos se passam por instituições confiáveis para roubar dados e dinheiro. Ela ficou arrasada, não só pelo prejuízo financeiro, mas também pela sensação de vulnerabilidade.
+
+Felizmente, Maria registrou um boletim de ocorrência e entrou em contato com o banco, que abriu uma investigação. Mas, como em muitos casos, recuperar o dinheiro foi quase impossível. A experiência deixou Maria mais cautelosa, mas também com uma lição valiosa: a importância de se proteger contra golpes digitais."
+
+"Agora que você conheceu a história de Maria, vou dar três dicas práticas para evitar cair em golpes de phishing:
+
+1. Desconfie de e-mails e mensagens alarmantes
+Golpistas usam táticas de urgência e medo para levar você a agir sem pensar. Se receber um e-mail ou mensagem dizendo que sua conta será bloqueada ou que há uma dívida pendente, não clique em links. Entre em contato diretamente com a instituição por meio de canais oficiais.
+
+2. Verifique a autenticidade do site
+Antes de digitar qualquer dado pessoal, confira se o site é seguro. Olhe se o endereço começa com 'https://' e se há um cadeado ao lado da URL. Golpistas costumam usar endereços parecidos, mas com pequenas diferenças, como 'banc0.com' em vez de 'banco.com'.
+
+3. Nunca compartilhe códigos de segurança
+Bancos e instituições financeiras nunca pedem códigos enviados por SMS ou e-mail. Se alguém pedir, é golpe. Esses códigos são a última barreira de segurança da sua conta. Guarde-os como um segredo.
+
+Lembre-se: a melhor defesa é a informação. Compartilhe essas dicas com amigos e familiares para que ninguém passe pelo que Maria passou."
+
+"E assim fechamos nosso episódio. A história de Maria nos mostra como os golpes de phishing podem ser devastadores, mas também como podemos nos proteger com pequenas atitudes.
+
+Se você gostou deste conteúdo, compartilhe com quem você ama e nos siga para mais dicas de segurança digital. Obrigado por ouvir, e até a próxima!"
